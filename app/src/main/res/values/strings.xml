@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialSwipeTab</string>
+
+    <string name="one">Fragment one</string>
+    <string name="two">Fragment two</string>
+    <string name="three">Fragment three</string>
+    <string name="four">Fragment four</string>
+    <string name="five">Fragment five</string>
+    <string name="six">Fragment six</string>
+</resources>
